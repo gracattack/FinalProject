@@ -2,6 +2,10 @@
 
 ## By Gracie Maulik and Carly Martin
 
+### Colab Notebook
+
+[Final Project Colab Notebook](
+
 ### Introduction 
 
 	
