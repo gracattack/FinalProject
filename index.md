@@ -91,6 +91,20 @@ _Phoenix Mercury:_
 
 &emsp;In 2020, the Phoenix Mercury had a high distribution of players averaging around 20 minutes per game where they finished 5th. In 2021, they also finished 5th, but with a much flatter distribution and utilizing longer playing time for some players. 2022, 2023, and 2024 all have two peaks, one around 10 minutes and one around 30 minutes, indicating that players either played most of the game or a small part. Few played about half of the game. Their ranking decreased as this pattern started, finishing in 8th, 12th, and 7th place in the past three years.
 
+_Seattle Storm:_
+
+![Seattle Storm](https://github.com/user-attachments/assets/30587ddf-e53a-47bd-9f28-a95779a2ffb7)
+
+&emsp;The Seattle Storm do not follow consistent patterns in their playing time distributions. In 2020, they finished 2nd and had a very narrow distribution around 20 minutes. In 2021, they had a much wider distribution, indicating more variation in playing time. In 2022, they had significant peaks around 30 minutes and a narrower distribution once again. In 2023, they follow more of the pattern from 2021, which saw them their worst ranking by far in the last 5 years. Finally, in 2024, the distribution is much flatter and spread out, indicating players had different playing time averages all across the team.
+
+![Seattle Storm Playoffs](https://github.com/user-attachments/assets/7d261c55-c5d2-4546-a15b-d97fcaaf3a8b)
+
+&emsp;The storm won the championship in 2020 when they entered the playoffs as the two seed. During their successful 2020 run, they had a large number of players playing around 5-15 minutes per game with fewer playing between 20 and 35 minutes. Additionally, in 2020, their regular season distribution did not change much in shape when the team entered the playoffs. This is most likely due to how the 2020 season was structured. The COVID-19 pandemic was running rampant during this time and therefore, the 2020 WNBA season was condensed and isolated. Instead of the normal 40 regular season games, the 2020 “Bubble” season was only 20 games. Because there were fewer games played in the regular seasons, teams did not need to manage the workload of their star players as much as they would in a season that is double in length. This meant that their lineups could be more consistent in playing time because there was less concern for long-term fatigue. Therefore, the distributions of the regular season and playoffs look more similar to each other than other seasons. 
+
+
+
+
+
 
 
 
