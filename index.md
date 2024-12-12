@@ -2,7 +2,7 @@
 layout: default
 ---
 
-###Colab Analysis Notebook
+### Colab Analysis Notebook
 
 [Final Project Colab Notebook](Data_Science_Final_Project_Code.ipynb)
 
