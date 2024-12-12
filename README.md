@@ -1,3 +1,7 @@
+# WNBA Playing Time Distributions
+
+## By Gracie Maulik and Carly Martin
+
 ### Introduction 
 
 	
