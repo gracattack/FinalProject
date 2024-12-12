@@ -101,6 +101,16 @@ _Seattle Storm:_
 
 &emsp;The storm won the championship in 2020 when they entered the playoffs as the two seed. During their successful 2020 run, they had a large number of players playing around 5-15 minutes per game with fewer playing between 20 and 35 minutes. Additionally, in 2020, their regular season distribution did not change much in shape when the team entered the playoffs. This is most likely due to how the 2020 season was structured. The COVID-19 pandemic was running rampant during this time and therefore, the 2020 WNBA season was condensed and isolated. Instead of the normal 40 regular season games, the 2020 “Bubble” season was only 20 games. Because there were fewer games played in the regular seasons, teams did not need to manage the workload of their star players as much as they would in a season that is double in length. This meant that their lineups could be more consistent in playing time because there was less concern for long-term fatigue. Therefore, the distributions of the regular season and playoffs look more similar to each other than other seasons. 
 
+_Washington Mystics:_
+
+![Washington Mystics](https://github.com/user-attachments/assets/4633e503-6640-4af3-a443-18200dca4be9)
+
+&emsp;Over the last five seasons, the Washington Mystics have had average at best regular seasons. There is not much consistency among their distributions. Most of them are unimodal except for 2020. 2024 saw their highest peak indicating not much variation in the number of minutes each player plays per game. The 2021 season has an almost symmetrical distribution heavily implying that the team did not rely on any star players and instead played many players an average amount of minutes per game. Their best regular season finish was fifth place in 2022. During this year, the distribution was right skewed indicating that they had some players playing large minutes while most played around ten per game.
+
+
+
+
+
 
 
 
