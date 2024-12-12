@@ -115,9 +115,43 @@ _Twelfth-Ranked Teams:_
 
 &emsp;In the past 5 years, there have been many different distributions of average playing times by teams who ranked last at the end of the season.  In 2020, the New York Liberty had a high density of players who played between 25 and 30 minutes per game, on average, with another small group sitting around the 15-minute range. In 2021, the Indiana Fever finished last with a very even distribution of playing time, with a normal curve centered right around 20 minutes per game. In 2022, the Fever also finished last, but they switched up their strategy. The distribution shifted to peak around the 15-minute mark and had a small hump around 30 minutes. This indicates that they relied heavily on a few players to be in the game, but it was not successful. The 2023 Phoenix Mercury had two sets of players, those who played less than 10 minutes on average and those who played around 30 on average. They relied on a few to do the heavy lifting on the season and that strategy did not result in many wins. Finally, in 2024, the Los Angeles Sparks had fairly even playing time, evenly distributed around 20 minutes, but it did not pay off for them in the end. Overall, there is no clear pattern of playing time distribution for teams who ranked last in the past 5 seasons. Some teams used the entirety of their bench, and some teams relied on their strongest players to do the work, but all of them have room for improvement in the coming years.
 
+_First-Ranked Teams:_
 
+![Top Ranked Teams (this goes 1st)](https://github.com/user-attachments/assets/0d53d509-d87d-42da-a9f9-f304a931a8f3)
 
+&emsp;The teams that finished the regular season in first place have also had somewhat similar distributions of playing time. Each team had a decent balance of players who played 20-35 minutes per game and those who hovered around 10 minutes per game. Additionally, each distribution is quite wide with the average standard deviation among these teams being 10.86 minutes. The teams who finished the regular season in last place had an average standard deviation of 7.74 minutes per game. In general, teams who finished the regular season in first place had a wider distribution of average minutes played per athlete, meaning that they were willing to play deep into their rosters. This indicates that teams that ended up winning the league often had more depth than those towards the bottom of the rankings.
 
+&emsp;In 2020, the Las Vegas Aces had a high density of players who played around 18-25 minutes per game with some players averaging 5-18 minutes per game. In 2021, the Connecticut Sun had a large cluster of players averaging around 30 minutes per game and they were supported by a smaller group of role players who played between 5 and 15 minutes per game. In 2022 the Aces had a large density of players who averaged around ten minutes per game. They also had a smaller group of players who averaged about 30 minutes per game. The following year the Aces’ distribution saw similar values in which the peaks occurred at 10 and 30 minutes respectively. However, the density of those values changed. In 2023 the Aces had a larger group of players who averaged 30 minutes compared to the smaller support players who averaged 10 minutes per game. 2024 saw the New York Liberty have the most uniform playing time distribution of all of the first-place finishing teams. They too had players who appeared to average 30 minutes and players who averaged 10 minutes but the density of those groups was quite similar. 
+
+_Championship Winning Teams:_
+
+![Championship winning](https://github.com/user-attachments/assets/80e8f559-7b7b-4197-9446-ca2551a23bea)
+
+&emsp;The playoff playing time distributions are much more similar than the other two groups already examined. All distributions are bimodal with dense clusters/peaks around 10 minutes and 30 minutes per game. There are no peaks at 20 minutes per game, an attribute often seen in the team’s regular season distributions, or among teams that performed poorly in the playoffs. Therefore, teams who consistently play their star players upwards of thirty minutes, assisted by role players who play between ten and fifteen minutes per game have proven to be extremely successful in the postseason.
+
+### Conclusion
+
+&emsp;So, do successful teams only play their best players the majority of the game, or do they utilize their entire bench and evenly distribute the load? The results of these distributions indicate that it depends on how one defines success. In the regular season, it appears that teams who had wider distributions tended to end up higher in the rankings.  For example, the distributions of the number one ranked regular seasons had an average standard deviation of 10.86 minutes per game compared to the twelfth ranked teams who had an average standard deviation of 7.74 minutes per game. Therefore, teams who play more players appear to perform better in the regular season than those who have limited depth.
+	
+&emsp;A potential drawback to this conclusion is that teams who end the regular season with a higher ranking may be winning games by insurmountable margins. When this occurs, say when a team is up by thirty points, they tend to play bench players who don’t always see the floor. That said, opposing teams often realize that the probability of them winning the game is low and too put their bench players in. This could be a contributing factor to the conclusion above but most likely is insufficient to fully dismiss it. 
+	
+&emsp;However, playoff success has a different look to it. All of the recent WNBA champions had a bimodal playoff distribution with peaks at 10 and 30 minutes per game. This is an indication of consistency throughout all playoff games and the necessity of elite players complimented by utility players. There was no instance within the last five years where the WNBA championship-winning team had a playoff distribution that was uniform or unimodal. A perfect case study is the Las Vegas Aces. Their championship-earning years (2022 and 2023) saw the team employ a bimodal distribution of playing time. Their stars played the majority of the game while the reserves aided their efforts through fewer but meaningful minutes. When the Aces failed to claim the title in 2020 and 2021 their distribution was unimodal and narrow indicating a more even distribution of playing time among stars and support players. Each of these years, the Aces entered the playoffs as either the 1 or 2 seed. While a bimodal distribution does not guarantee an eventual title win, it has been the strategy that the last five championship teams have harnessed.
+ 
+&emsp;To further explore this topic, it would be beneficial to examine the average number of players that teams used throughout the regular season and playoffs. Additionally, rosters in the WNBA are subject to constant changes throughout the season due to trades, injuries, and suspension. While a few examples of these confounding factors were touched on, a deeper analysis of a team’s movements can tell a more comprehensive story about the success of a team. Additionally, examining how the distribution of playing time changes throughout the regular season, such as before and after the trade deadlines, would be fascinating. Not only could the distributions be drastically different before and after but they may also average out the distributions above, potentially obscuring the true nuances of team dynamics. 
+
+### Works Cited
+
+NBA. “3-Time WNBA Champion Candace Parker Announces Retirement.” NBA.Com, NBA.com, 28 Apr. 2024, www.nba.com/news/candace-parker-announces-retirement-wnba.
+
+Philippou, Alexa. “Napheesa Collier’s Comeback: From Giving Birth to Making Her WNBA Season Debut in 74 Days.” ESPN, ESPN Internet Ventures, www.espn.com/wnba/story/_/id/34389238/napheesa-collier-comeback-giving-birth-making-wnba-season-debut-74-days. Accessed 7 Dec. 2024.
+
+“Return to Play 2020.” WNBA Stats, 2020, stats.wnba.com/returntoplay2020/.
+
+Sun-Times, Chicago. “Chicago Sky Select Kamilla Cardoso and Angel Reese in 2024 WNBA Draft.” Vocalo Radio 91.1FM, Vocalo Radio 91.1FM, 17 Apr. 2024, vocalo.org/chicago-sky-sun-times-wnba-draft/. 
+
+“WNBA Standings - 2024 Regular Season League Standings.” ESPN, ESPN Internet Ventures, www.espn.com/wnba/standings/_/season/2024. Accessed 7 Dec. 2024. 
+
+“WNBA.” WNBA Stats, stats.wnba.com/. Accessed 7 Dec. 2024. 
 
 
 
