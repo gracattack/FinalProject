@@ -73,6 +73,30 @@ _Minnesota Lynx:_
 
 &emsp;The Minnesota Lynx are a historically good WNBA franchise and have made the playoffs four of the last five years. They also appear to have some of the most consistent distributions of playing time among WNBA teams in the last five years. All distributions are narrow and have one distinct peak. Excluding 2022, the average number of minutes per game played ranged from 18.16 to 19.46 and the standard deviation ranged from 8.74 to 10.79 minutes per game. The 2022 season has the highest peak of all Lynx distributions at around 15 minutes per game. The Lynx therefore had more players playing fewer minutes than stars playing large minutes. This is to be expected because in 2022, the Lynx’s best player,  Napheesa Collier, who finished second in the MVP race in 2024, missed the majority of the season due to maternity leave. Therefore the Lynx had to adjust to her absence, playing more role players around 10-20 minutes a game. This rotation of players only playing 15 minutes a game may not allow them to “get their footing” and feel comfortable within lineups. The combination of this and the absence of their best player led to the worst Lynx finish in the last five years: ending the season in ninth place and missing the playoffs altogether. 
 
+_New York Liberty:_
+
+![New York Liberty](https://github.com/user-attachments/assets/e441a106-0bdc-42df-a89f-12c322a0371b)
+
+&emsp;New York in 2020, 2021, and 2022 were consistently finished towards the bottom of the rankings, 12th (last), 8th, and 7th respectively. Each of the corresponding regular-season distributions is quite narrow and with peaks closer to 20-30 minutes a game. In 2020 especially, the highest peak was around 25 minutes a game. The average number of minutes played per game in 2020, 2021, and 2022 were 20.26, 21.65 and 20.25 respectively. Additionally, their respective standard deviations were 6.44, 7.76 and 7.72. This is a strong indication that the Liberty relied heavily on a few players to take most of the minutes. 
+ 
+&emsp;However, they saw success in 2023 and 2024, finishing the season in 2nd and 1st respectively. These distributions are drastically different from the three previous ones. They are much wider with standard deviations of 11.101061 and 10.619108 respectively. Both the 2023 and 2024 were much more uniform, indicating that the team had some star players mixed in with a healthy amount of role players. Additionally, they relied on them equally and consistently. 
+
+![New York Liberty Playoffs](https://github.com/user-attachments/assets/f2a9418f-72b5-4d49-a7ca-1f1b1dac94a7)
+
+&emsp;In both 2023 and 2024, the New York Liberty made it to the championship game, winning it in 2024. While their regular season distributions were quite uniform, their successful playoff distributions were again bimodal. During their title run, the Liberty consistently played their star players more minutes while sprinkling in their role players. They relied equally on both groups with their stars consistently playing 25-45 (higher than 40 because two of the games went into overtime) and bench players playing 5-15 minutes per game. 
+
+_Phoenix Mercury:_
+
+![Phoenix Mercury](https://github.com/user-attachments/assets/713f3c64-8456-4c6f-8052-2e504ede5baa)
+
+&emsp;In 2020, the Phoenix Mercury had a high distribution of players averaging around 20 minutes per game where they finished 5th. In 2021, they also finished 5th, but with a much flatter distribution and utilizing longer playing time for some players. 2022, 2023, and 2024 all have two peaks, one around 10 minutes and one around 30 minutes, indicating that players either played most of the game or a small part. Few played about half of the game. Their ranking decreased as this pattern started, finishing in 8th, 12th, and 7th place in the past three years.
+
+
+
+
+
+
+
 
 
 
