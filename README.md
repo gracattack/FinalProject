@@ -4,7 +4,7 @@
 
 ### Colab Notebook
 
-[Final Project Colab Notebook](
+[Final Project Colab Notebook](Data_Science_Final_Project_Code.ipynb)
 
 ### Introduction 
 
