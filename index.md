@@ -107,6 +107,16 @@ _Washington Mystics:_
 
 &emsp;Over the last five seasons, the Washington Mystics have had average at best regular seasons. There is not much consistency among their distributions. Most of them are unimodal except for 2020. 2024 saw their highest peak indicating not much variation in the number of minutes each player plays per game. The 2021 season has an almost symmetrical distribution heavily implying that the team did not rely on any star players and instead played many players an average amount of minutes per game. Their best regular season finish was fifth place in 2022. During this year, the distribution was right skewed indicating that they had some players playing large minutes while most played around ten per game.
 
+### Methods and Results: Top and Bottom-Ranked Teams, Championship Teams
+
+_Twelfth-Ranked Teams:_
+
+![Last Place](https://github.com/user-attachments/assets/b52bc89f-b40e-4545-a8ed-fa7c368f7115)
+
+&emsp;In the past 5 years, there have been many different distributions of average playing times by teams who ranked last at the end of the season.  In 2020, the New York Liberty had a high density of players who played between 25 and 30 minutes per game, on average, with another small group sitting around the 15-minute range. In 2021, the Indiana Fever finished last with a very even distribution of playing time, with a normal curve centered right around 20 minutes per game. In 2022, the Fever also finished last, but they switched up their strategy. The distribution shifted to peak around the 15-minute mark and had a small hump around 30 minutes. This indicates that they relied heavily on a few players to be in the game, but it was not successful. The 2023 Phoenix Mercury had two sets of players, those who played less than 10 minutes on average and those who played around 30 on average. They relied on a few to do the heavy lifting on the season and that strategy did not result in many wins. Finally, in 2024, the Los Angeles Sparks had fairly even playing time, evenly distributed around 20 minutes, but it did not pay off for them in the end. Overall, there is no clear pattern of playing time distribution for teams who ranked last in the past 5 seasons. Some teams used the entirety of their bench, and some teams relied on their strongest players to do the work, but all of them have room for improvement in the coming years.
+
+
+
 
 
 
